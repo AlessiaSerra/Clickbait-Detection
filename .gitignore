@@ -1,0 +1,11 @@
+# Data
+articles.parquet
+train/
+validation/
+
+# System files / archives
+__MACOSX/
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
